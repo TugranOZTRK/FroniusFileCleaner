@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\bin\Debug\net6.0-windows\FroniusFileCleaner.exe
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\bin\Debug\net6.0-windows\FroniusFileCleaner.deps.json
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\bin\Debug\net6.0-windows\FroniusFileCleaner.runtimeconfig.json
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\bin\Debug\net6.0-windows\FroniusFileCleaner.dll
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\bin\Debug\net6.0-windows\FroniusFileCleaner.pdb
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.Form1.resources
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.dll
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\refint\FroniusFileCleaner.dll
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.pdb
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\FroniusFileCleaner.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\FroniusFileCleaner\FroniusFileCleaner\obj\Debug\net6.0-windows\ref\FroniusFileCleaner.dll
